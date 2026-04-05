@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="../ChildApp/ChildApp.csproj" Id="3c72bef8-d616-4956-a441-da96f0e10e18" />
-  <Project Path="ConsoleApp3.csproj" />
-</Solution>
