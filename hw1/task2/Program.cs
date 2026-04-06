@@ -27,6 +27,7 @@ internal class Program
         else if (input == "2")
         {
             process.Kill();
+            Console.WriteLine("Дочірній процес примусово завершено!");
         }
     }
 }
